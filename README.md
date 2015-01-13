@@ -9,6 +9,9 @@ http://jenkins-ci.org/
 ### Jenkins Logo
 https://wiki.jenkins-ci.org/display/JENKINS/Logo
 
+### Unity
+http://japan.unity3d.com/
+
 ## ライセンス
 オリジナルの3dデータに従います。
 LISENCEファイルを参照。
